@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79121894219",
+    "project_id": "homework4-dbc1d",
+    "storage_bucket": "homework4-dbc1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79121894219:android:67189a716d7a9ea29536ce",
+        "android_client_info": {
+          "package_name": "com.example.homework4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPAsd6klyjmPvhHTSU3rYpdb59KtKrs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
